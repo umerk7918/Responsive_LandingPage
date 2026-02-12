@@ -16,6 +16,13 @@ A clean, modern, and mobile-first landing page template built with semantic HTML
 - **Accessible markup** with semantic HTML and readable structure
 - **No frameworks** — small, dependency-free CSS (easy to customize)
 
+## 📸 Screenshot
+
+<div align="center">
+  <img src="./Image/ScreenShot/Screenshot%202026-02-12%20194530.png" alt="Desktop View" width="80%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); max-width: 1000px; display: block; margin: 0 auto 20px;">
+  <p><em>Desktop View</em></p>
+</div>
+
 ---
 
 ## ⚙️ Quick Start
