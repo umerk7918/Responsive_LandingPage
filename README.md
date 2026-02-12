@@ -1,13 +1,3 @@
-🚀 Responsive Landing Page
-
-A modern and fully responsive landing page built using HTML5 and CSS3.
-Designed with clean UI principles and mobile-first responsiveness — without using any frameworks.
-
-🌐 Live Preview
-
-Add your GitHub Pages link here
-
-https://umerk7918.github.io/Responsive_LandingPage/
 # 🚀 Responsive Landing Page
 
 A clean, modern, and mobile-first landing page template built with semantic HTML and handcrafted CSS. Perfect for quick prototypes, portfolios, and marketing pages.
